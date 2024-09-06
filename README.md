@@ -56,6 +56,7 @@
 - Java, PHP, HTML, CSS, JavaScript, SQL
 - Android Studio
 - AMPPS
+- Gradle Build Tool
 
 *I am currently in this class, and will update this as I progress further!*
 
@@ -90,6 +91,21 @@
 - Python
 - Working with Discord API
 - Running a bot using batch files
+
+### **Minecraft Mod Basic Guide**
+
+[Bitbucket Repository](https://bitbucket.org/tannerworkspace/minecraft-mod-testing-1.21/src/master/)
+
+*Description:*
+
+- Short guide with starter files I created to get into Minecraft modding! This was created to help my friends who were also interested, hence the guide I created.
+
+*Languages and Skill Sets:*
+- Java
+- Gradle Build Tool
+- Working with [Fabric API](https://docs.fabricmc.net/)
+- IntelliJ
+- Writing a guide using a README file
 
 ### **Website**
 
