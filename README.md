@@ -1,4 +1,4 @@
-# Tanner Morlan Portfolio!
+# Tanner Morlan's Portfolio!
 
 ## This is a portfolio created to showcase my technical skills.
 
