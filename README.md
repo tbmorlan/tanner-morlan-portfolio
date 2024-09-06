@@ -53,6 +53,7 @@
 - This course focuses on concepts and best practices for developing and managing “mobile-first” technology projects. It covers processes and requirements for developing mobile web applications and principles for effective interface and user experience design. Students will also examine different issues and concerns that may influence the widespread adoption and implementation of mobile web applications. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
 *Languages and Skill Sets:*
+
 - Java, PHP, HTML, CSS, JavaScript, SQL
 - Android Studio
 - AMPPS
@@ -73,6 +74,7 @@
 - This is the second version using JavaScript. The first version was written in Python.
 
 *Languages and Skill Sets:*
+
 - JavaScript
 - Working with Discord API
 - Full rewrite of code from Python to JavaScript
@@ -88,6 +90,7 @@
 - First version of the Marlin Discord bot listed above. However, this one was written in Python.
 
 *Languages and Skill Sets:*
+
 - Python
 - Working with Discord API
 - Running a bot using batch files
@@ -101,6 +104,7 @@
 - Short guide with starter files I created to get into Minecraft modding! This was created to help my friends who were also interested, hence the guide I created.
 
 *Languages and Skill Sets:*
+
 - Java
 - Gradle Build Tool
 - Working with [Fabric API](https://docs.fabricmc.net/)
@@ -116,6 +120,7 @@
 - Website I created alongside my web development class in 2020.
 
 *Languages and Skill Sets:*
+
 - HTML, CSS, JavaScript
 - Responsive web design
 - Bootstrap framework
