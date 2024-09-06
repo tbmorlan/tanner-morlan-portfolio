@@ -6,7 +6,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
 - Email: tannerbmorlan@gmail.com
-- [Resume](TannerBMorlanResumeSeptember2024.pdf) (as of September 2024)
+- [Resume](img/TannerBMorlanResumeSeptember2024.png) (as of September 2024; any updates can be found on Linkedin)
 
 ## Classes:
 
