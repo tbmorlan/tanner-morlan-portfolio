@@ -71,6 +71,7 @@
 - This course provides an introduction to data analytics, which is defined as the extensive use of data, statistical and quantitative analysis, predictive and exploratory models to drive decisions and actions. Students will learn basic concepts and essential algorithms for data analytics, including data cleaning, association rule mining, data warehousing, predictive modeling, clustering, and text mining.  Students will also learn to use mainstream tools such as Weka, Orange Data Mining, MetaMap, and Tableau to solve data analytics problems with real-world datasets. Further, the students will evaluate the data analytics models, interpret the results, and understand their limitations. The students will form groups, conduct a project of data analytics, and use the tools introduced in the course to tackle the problem. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
 *Languages and Skill Sets:*
+
 - Python
 - Machine Learning
 - Orange Data Mining
