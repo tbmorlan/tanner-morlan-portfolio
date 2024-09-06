@@ -2,6 +2,11 @@
 
 ## This is a portfolio created to showcase my technical skills.
 
+## Contact:
+
+- [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
+- Email: tannerbmorlan@gmail.com
+
 ## Classes:
 
 ### **LIS4368**
