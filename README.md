@@ -10,13 +10,13 @@
 
 ## Classes:
 
-### **LIS4368**
+### **LIS4368 - Advanced Web Applications**
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4368/src/master/)
 
 *Course Description:*
 
-- This course provides a foundation in developing web applications with an emphasis on server-side concepts, tools and methods. Topics include basic web application programming, advanced object-oriented programming (OOP) and web application development. Students enrolled in this course will develop basic programming skills in a modern web development environment, understand web application development principles and be able to find and use web application development resources on the Internet. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
+#### This course provides a foundation in developing web applications with an emphasis on server-side concepts, tools and methods. Topics include basic web application programming, advanced object-oriented programming (OOP) and web application development. Students enrolled in this course will develop basic programming skills in a modern web development environment, understand web application development principles and be able to find and use web application development resources on the Internet. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
 *Languages and Skill Sets:*
 
@@ -25,7 +25,7 @@
 - Tomcat
 - Many more specifics listed in Bitbucket repo!
 
-### **LIS4930**
+### **LIS4930 - Artificial Intelligence Applications**
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4930/src/main/)
 
@@ -45,13 +45,13 @@
 - Train AI
 
 
-### **LIS4381**
+### **LIS4381 - Mobile Web Application Development**
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4381/src/main/)
 
 *Course Description:*
 
-- This course focuses on concepts and best practices for developing and managing “mobile-first” technology projects. It covers processes and requirements for developing mobile web applications and principles for effective interface and user experience design. Students will also examine different issues and concerns that may influence the widespread adoption and implementation of mobile web applications. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
+#### This course focuses on concepts and best practices for developing and managing “mobile-first” technology projects. It covers processes and requirements for developing mobile web applications and principles for effective interface and user experience design. Students will also examine different issues and concerns that may influence the widespread adoption and implementation of mobile web applications. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
 *Languages and Skill Sets:*
 
@@ -62,13 +62,13 @@
 
 *I am currently in this class, and will update this as I progress further!*
 
-### **LIS4761**
+### **LIS4761 - Data Mining and Analytics**
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4761/src/master/)
 
 *Course Description:*
 
-- This course provides an introduction to data analytics, which is defined as the extensive use of data, statistical and quantitative analysis, predictive and exploratory models to drive decisions and actions. Students will learn basic concepts and essential algorithms for data analytics, including data cleaning, association rule mining, data warehousing, predictive modeling, clustering, and text mining.  Students will also learn to use mainstream tools such as Weka, Orange Data Mining, MetaMap, and Tableau to solve data analytics problems with real-world datasets. Further, the students will evaluate the data analytics models, interpret the results, and understand their limitations. The students will form groups, conduct a project of data analytics, and use the tools introduced in the course to tackle the problem. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
+#### This course provides an introduction to data analytics, which is defined as the extensive use of data, statistical and quantitative analysis, predictive and exploratory models to drive decisions and actions. Students will learn basic concepts and essential algorithms for data analytics, including data cleaning, association rule mining, data warehousing, predictive modeling, clustering, and text mining.  Students will also learn to use mainstream tools such as Weka, Orange Data Mining, MetaMap, and Tableau to solve data analytics problems with real-world datasets. Further, the students will evaluate the data analytics models, interpret the results, and understand their limitations. The students will form groups, conduct a project of data analytics, and use the tools introduced in the course to tackle the problem. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
 *Languages and Skill Sets:*
 
