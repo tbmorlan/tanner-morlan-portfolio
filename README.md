@@ -29,11 +29,11 @@
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4368/src/master/)
 
-*Course Description:*
+***Course Description:***
 
 This course provides a foundation in developing web applications with an emphasis on server-side concepts, tools and methods. Topics include basic web application programming, advanced object-oriented programming (OOP) and web application development. Students enrolled in this course will develop basic programming skills in a modern web development environment, understand web application development principles and be able to find and use web application development resources on the Internet. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - Java, HTML, CSS, JavaScript, SQL
 - Servlets
@@ -44,7 +44,7 @@ This course provides a foundation in developing web applications with an emphasi
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4930/src/main/)
 
-*Course Description:*
+***Course Description:***
 
 - A directed and supervised investigation of selected problems, issues, and trends in information studies, with an emphasis on research. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 - When I took the class, it was focused on Artificial Intelligence.
@@ -64,11 +64,11 @@ This course provides a foundation in developing web applications with an emphasi
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4381/src/main/)
 
-*Course Description:*
+***Course Description:***
 
 This course focuses on concepts and best practices for developing and managing “mobile-first” technology projects. It covers processes and requirements for developing mobile web applications and principles for effective interface and user experience design. Students will also examine different issues and concerns that may influence the widespread adoption and implementation of mobile web applications. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - Java, PHP, HTML, CSS, JavaScript, SQL
 - Android Studio
@@ -81,11 +81,11 @@ This course focuses on concepts and best practices for developing and managing �
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/lis4761/src/master/)
 
-*Course Description:*
+***Course Description:***
 
 This course provides an introduction to data analytics, which is defined as the extensive use of data, statistical and quantitative analysis, predictive and exploratory models to drive decisions and actions. Students will learn basic concepts and essential algorithms for data analytics, including data cleaning, association rule mining, data warehousing, predictive modeling, clustering, and text mining.  Students will also learn to use mainstream tools such as Weka, Orange Data Mining, MetaMap, and Tableau to solve data analytics problems with real-world datasets. Further, the students will evaluate the data analytics models, interpret the results, and understand their limitations. The students will form groups, conduct a project of data analytics, and use the tools introduced in the course to tackle the problem. (Taken from: [FSU CCI Undergraduate Classes](https://ischool.cci.fsu.edu/academics/courses/undergrad/#LIS_4368))
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - Python
 - Machine Learning
@@ -103,13 +103,13 @@ This course provides an introduction to data analytics, which is defined as the 
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/marlinbot/src/master/)
 
-*Description:*
+***Description:***
 
 - Marlin is a Discord bot created by Tanner Morlan. The main intention of the bot is simplicity with no hard to configure settings or permissions. The bot brings many essential features including moderation, fun commands, and essential server commands that ensure that you have exactly what you need! 
 
 - This is the second version using JavaScript. The first version was written in Python.
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - JavaScript
 - Working with Discord API
@@ -121,11 +121,11 @@ This course provides an introduction to data analytics, which is defined as the 
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/tabberbotpy/src/master/)
 
-*Description:*
+***Description:***
 
 - First version of the Marlin Discord bot listed above. However, this one was written in Python.
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - Python
 - Working with Discord API
@@ -135,11 +135,11 @@ This course provides an introduction to data analytics, which is defined as the 
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/minecraft-mod-testing-1.21/src/master/)
 
-*Description:*
+***Description:***
 
 - Short guide with starter files I created to get into Minecraft modding! This was created to help my friends who were also interested, hence the guide I created.
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - Java
 - Gradle Build Tool
@@ -151,11 +151,11 @@ This course provides an introduction to data analytics, which is defined as the 
 
 [Bitbucket Repository](https://bitbucket.org/tannerworkspace/web2website/src/master/)
 
-*Description:*
+***Description:***
 
 - Website I created alongside my web development class in 2020.
 
-*Languages and Skill Sets:*
+***Languages and Skill Sets:***
 
 - HTML, CSS, JavaScript
 - Responsive web design
