@@ -12,6 +12,7 @@
 
 - [Linkedin Learning - Learning Excel: Data Analysis](img/learning_excel_data_analysis.jpg)
 - [Linkedin Learning - The Non-Technical Skills of Effective Data Scientists](img/the_non_technical_skills_of_effective_data_scientists.jpg)
+- [Linkedin Learning - Data Literacy: Exploring and Describing Data](img/data_literacy_exploring_and_describing_data.jpg)
 - [World Wide Technology - Password Cracking](img/password-cracking.png)
 - [Adobe - Visual Design](img/visual-design.png)
 - [Adobe - Visual Design using Adobe Photoshop CC 2018](img/visual-design-using-photoshop.png)
