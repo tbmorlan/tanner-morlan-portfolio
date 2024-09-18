@@ -2,13 +2,28 @@
 
 ## This is a portfolio created to showcase my technical skills.
 
-## Contact:
+## **Contact:**
 
 - [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
 - Email: tannerbmorlan@gmail.com
 - [Resume](img/TannerBMorlanResumeSeptember2024.png) (as of September 2024; any updates can be found on Linkedin)
 
-## Classes:
+## **Certifications**
+
+- [Linkedin Learning - Learning Excel: Data Analysis](img/learning_excel_data_analysis.jpg)
+- [Linkedin Learning - The Non-Technical Skills of Effective Data Scientists](img/the_non_technical_skills_of_effective_data_scientists.jpg)
+- [World Wide Technology - Password Cracking](img/password-cracking.png)
+- [Adobe - Visual Design](img/visual-design.png)
+- [Adobe - Visual Design using Adobe Photoshop CC 2018](img/visual-design-using-photoshop.png)
+- [Adobe - Graphic Design & Illustration Using Adobe Illustrator](img/graphics-design-and-illustration-using-adobe-illustrator.png)
+- [CIW - CIW Advanced HTML5 and CSS3 Specialist](img/ciw-advanced-html5-and-css3-specialist.png)
+- [CIW - CIW Site Development Associate](img/ciw-site-development-associate.png)
+- [Microsoft - Introduction to Programming using JavaScript](img/introduction-to-programming-using-javascript.png)
+- [Certiport - Autodesk Certified User: Inventor](img/autodesk-certified-user-inventor.png)
+
+
+
+## **Classes:**
 
 ### **LIS4368 - Advanced Web Applications**
 
