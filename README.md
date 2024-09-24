@@ -6,7 +6,8 @@
 
 - [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
 - Email: tannerbmorlan@gmail.com
-- [Resume](resume/README.md)
+- [Main Resume](resume/main_resume.md)
+- [Data Analyst Specific Resume](resume/data_analyst_resume.md)
 
 ## **Certifications**
 
