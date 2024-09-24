@@ -11,6 +11,8 @@
 
 ## **Certifications**
 
+- [Linkedin Learning - Learning Data Analytics: 1 Foundations](img/learning_data_analytics-1_foundations.jpg)
+- [Linkedin Learning - Learning Data Analytics Part 2: Extending and Applying Core Knowledge](img/learning_data_analytics_part_2-extending_and_applying_core_knowledge.jpg)
 - [Linkedin Learning - Learning Excel: Data Analysis](img/learning_excel_data_analysis.jpg)
 - [Linkedin Learning - The Non-Technical Skills of Effective Data Scientists](img/the_non_technical_skills_of_effective_data_scientists.jpg)
 - [Linkedin Learning - Data Literacy: Exploring and Describing Data](img/data_literacy_exploring_and_describing_data.jpg)
