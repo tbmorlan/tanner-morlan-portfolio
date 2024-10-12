@@ -4,6 +4,7 @@
 
 ## **Contact:**
 
+- [Website](https://tannermorlan.com/)
 - [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
 - Email: tannerbmorlan@gmail.com
 - [Main Resume](resume/main_resume.md)
@@ -16,6 +17,11 @@
 - [Linkedin Learning - Learning Excel: Data Analysis](img/learning_excel_data_analysis.jpg)
 - [Linkedin Learning - The Non-Technical Skills of Effective Data Scientists](img/the_non_technical_skills_of_effective_data_scientists.jpg)
 - [Linkedin Learning - Data Literacy: Exploring and Describing Data](img/data_literacy_exploring_and_describing_data.jpg)
+- [Linkedin Learning - Complete Guide to R: Wrangling, Visualizing, and Modeling Data](img/complete-guide-to-r-wrangling-visualizing-and-modeling-data.jpg)
+- [Linkedin Learning - Excel Statistics Essential Traning: 1](img/excel-statistics-essential-training-1.jpg)
+- [Linkedin Learning - Learning Data Visualization](img/learning-data-visualization.jpg)
+- [Linkedin Learning - Power BI Essential Training](img/power-bi-essential-training.jpg)
+- [Linkedin Learning - Predictive Analytics Essential Training: Data Mining](img/predictive-analytics-essential-training-data-mining.jpg)
 - [World Wide Technology - Password Cracking](img/password-cracking.png)
 - [Adobe - Visual Design](img/visual-design.png)
 - [Adobe - Visual Design using Adobe Photoshop CC 2018](img/visual-design-using-photoshop.png)
