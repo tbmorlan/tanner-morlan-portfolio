@@ -22,6 +22,7 @@
 - [Linkedin Learning - Learning Data Visualization](img/learning-data-visualization.jpg)
 - [Linkedin Learning - Power BI Essential Training](img/power-bi-essential-training.jpg)
 - [Linkedin Learning - Predictive Analytics Essential Training: Data Mining](img/predictive-analytics-essential-training-data-mining.jpg)
+- [Linkedin Learning - Tableau Essential Training](img/tableau-essential-training.jpg)
 - [World Wide Technology - Password Cracking](img/password-cracking.png)
 - [Adobe - Visual Design](img/visual-design.png)
 - [Adobe - Visual Design using Adobe Photoshop CC 2018](img/visual-design-using-photoshop.png)
