@@ -12,6 +12,7 @@
 
 ## **Certifications**
 
+- [Linkedin Learning - Become a Data Analyst](img/become-a-data-analyst.jpg)
 - [Linkedin Learning - Learning Data Analytics: 1 Foundations](img/learning_data_analytics-1_foundations.jpg)
 - [Linkedin Learning - Learning Data Analytics Part 2: Extending and Applying Core Knowledge](img/learning_data_analytics_part_2-extending_and_applying_core_knowledge.jpg)
 - [Linkedin Learning - Learning Excel: Data Analysis](img/learning_excel_data_analysis.jpg)
@@ -23,6 +24,8 @@
 - [Linkedin Learning - Power BI Essential Training](img/power-bi-essential-training.jpg)
 - [Linkedin Learning - Predictive Analytics Essential Training: Data Mining](img/predictive-analytics-essential-training-data-mining.jpg)
 - [Linkedin Learning - Tableau Essential Training](img/tableau-essential-training.jpg)
+- [Linkedin Learning - Data Cleaning in Python Essential Training](img/data-cleaning-in-python-essential-training.jpg)
+- [Linkedin Learning - SQL: Data Reporting and Analysis](img/sql-data-reporting-and-analysis.jpg)
 - [World Wide Technology - Password Cracking](img/password-cracking.png)
 - [Adobe - Visual Design](img/visual-design.png)
 - [Adobe - Visual Design using Adobe Photoshop CC 2018](img/visual-design-using-photoshop.png)
