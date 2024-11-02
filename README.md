@@ -7,8 +7,8 @@
 - [Website](https://tannermorlan.com/)
 - [Linkedin](https://www.linkedin.com/in/tanner-morlan/)
 - Email: tannerbmorlan@gmail.com
-- [Main Resume](resume/main_resume.md)
-- [Data Analyst Specific Resume](resume/data_analyst_resume.md)
+- [Master Resume](resume/main_resume.md)
+- [One Page Resume](resume/one_page_resume.md)
 
 ## **Certifications**
 
@@ -36,6 +36,94 @@
 - [Certiport - Autodesk Certified User: Inventor](img/autodesk-certified-user-inventor.png)
 
 
+
+## Personal Projects:
+
+### **Metal Music Analysis**
+
+[GitHub Repository](https://github.com/tbmorlan/metal-music-analysis)
+
+***Description:***
+
+- Get dataset from Kaggle to gain insights about metal music on Amazon.
+- Clean dataset to facilitate analysis.
+- Use analytical tools to work with the data and learn more about it.
+- Create visualizations to portray data in a more readable way to a non-technical person.
+
+***Languages and Skill Sets:***
+
+- SQL
+- Python
+- R
+- Power BI
+- PostgreSQL
+- Docker
+- Statistical Analyses
+- Creating Interactive Dashboards
+- Querying dataset to do Analysis
+
+
+### **Marlin Discord Bot**
+
+[Bitbucket Repository](https://bitbucket.org/tannerworkspace/marlinbot/src/master/)
+
+***Description:***
+
+- Marlin is a Discord bot created by Tanner Morlan. The main intention of the bot is simplicity with no hard to configure settings or permissions. The bot brings many essential features including moderation, fun commands, and essential server commands that ensure that you have exactly what you need! 
+
+- This is the second version using JavaScript. The first version was written in Python.
+
+***Languages and Skill Sets:***
+
+- JavaScript
+- Working with Discord API
+- Full rewrite of code from Python to JavaScript
+- Running a bot using batch files
+- Graphic Design
+
+### **Tabber Discord Bot**
+
+[Bitbucket Repository](https://bitbucket.org/tannerworkspace/tabberbotpy/src/master/)
+
+***Description:***
+
+- First version of the Marlin Discord bot listed above. However, this one was written in Python.
+
+***Languages and Skill Sets:***
+
+- Python
+- Working with Discord API
+- Running a bot using batch files
+
+### **Minecraft Mod Basic Guide**
+
+[Bitbucket Repository](https://bitbucket.org/tannerworkspace/minecraft-mod-testing-1.21/src/master/)
+
+***Description:***
+
+- Short guide with starter files I created to get into Minecraft modding! This was created to help my friends who were also interested, hence the guide I created.
+
+***Languages and Skill Sets:***
+
+- Java
+- Gradle Build Tool
+- Working with [Fabric API](https://docs.fabricmc.net/)
+- IntelliJ
+- Writing a guide using a README file
+
+### **Website**
+
+[Bitbucket Repository](https://bitbucket.org/tannerworkspace/web2website/src/master/)
+
+***Description:***
+
+- Website I created alongside my web development class in 2020.
+
+***Languages and Skill Sets:***
+
+- HTML, CSS, JavaScript
+- Responsive web design
+- Bootstrap framework
 
 ## **Classes:**
 
@@ -110,67 +198,3 @@ This course provides an introduction to data analytics, which is defined as the 
 - Jupyter Notebook
 - Predictive models
 - Various data analysis algorithms
-
-## Personal Projects:
-
-### **Marlin Discord Bot**
-
-[Bitbucket Repository](https://bitbucket.org/tannerworkspace/marlinbot/src/master/)
-
-***Description:***
-
-- Marlin is a Discord bot created by Tanner Morlan. The main intention of the bot is simplicity with no hard to configure settings or permissions. The bot brings many essential features including moderation, fun commands, and essential server commands that ensure that you have exactly what you need! 
-
-- This is the second version using JavaScript. The first version was written in Python.
-
-***Languages and Skill Sets:***
-
-- JavaScript
-- Working with Discord API
-- Full rewrite of code from Python to JavaScript
-- Running a bot using batch files
-- Graphic Design
-
-### **Tabber Discord Bot**
-
-[Bitbucket Repository](https://bitbucket.org/tannerworkspace/tabberbotpy/src/master/)
-
-***Description:***
-
-- First version of the Marlin Discord bot listed above. However, this one was written in Python.
-
-***Languages and Skill Sets:***
-
-- Python
-- Working with Discord API
-- Running a bot using batch files
-
-### **Minecraft Mod Basic Guide**
-
-[Bitbucket Repository](https://bitbucket.org/tannerworkspace/minecraft-mod-testing-1.21/src/master/)
-
-***Description:***
-
-- Short guide with starter files I created to get into Minecraft modding! This was created to help my friends who were also interested, hence the guide I created.
-
-***Languages and Skill Sets:***
-
-- Java
-- Gradle Build Tool
-- Working with [Fabric API](https://docs.fabricmc.net/)
-- IntelliJ
-- Writing a guide using a README file
-
-### **Website**
-
-[Bitbucket Repository](https://bitbucket.org/tannerworkspace/web2website/src/master/)
-
-***Description:***
-
-- Website I created alongside my web development class in 2020.
-
-***Languages and Skill Sets:***
-
-- HTML, CSS, JavaScript
-- Responsive web design
-- Bootstrap framework
